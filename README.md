@@ -1,7 +1,3 @@
-### Build and Run with Docker Compose
-
-#### 1. Localhost
-
 **1.1 Prerequisites**
 
 ### Running Redis as a Docker Container
