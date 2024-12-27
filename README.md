@@ -95,6 +95,7 @@ Docker is used to containerize the application for different environments (local
     ```sh
     docker pull redis
     docker run --name my-redis -d redis
+    ```
 
 2. **Development**
 
