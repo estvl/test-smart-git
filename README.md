@@ -6,3 +6,5 @@ For the development process in a localhost environment, you can install and run 
 
 ```sh
 docker pull redis
+docker run --name my-redis -d redis
+
