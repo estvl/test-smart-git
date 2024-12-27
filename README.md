@@ -1,3 +1,6 @@
+#### Build and Run with Docker Compose
+
+1. **Localhost**
 **1.1 Prerequisites**
 
 ### Running Redis as a Docker Container
@@ -7,4 +10,3 @@ For the development process in a localhost environment, you can install and run 
 ```sh
 docker pull redis
 docker run --name my-redis -d redis
-
